@@ -401,3 +401,14 @@ Works out of the box with:
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Bottom wave"/>
 
 </div>
+
+
+## Suggested GitHub Topics
+
+~~~text
+react vite frontend web-app typescript tailwindcss
+~~~
+
+## License
+
+This project is available under the MIT License. See [LICENSE](LICENSE).
